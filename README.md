@@ -1,5 +1,5 @@
-<img width="974" height="1156" alt="image" src="https://github.com/user-attachments/assets/5390fee8-7c5e-48fa-b441-6aa5b5f2b8a5" />
-<img width="648" height="1328" alt="image" src="https://github.com/user-attachments/assets/c330da59-625c-45df-a4e8-b216c8807209" />
+<img width="480" height="600" alt="image" src="https://github.com/user-attachments/assets/5390fee8-7c5e-48fa-b441-6aa5b5f2b8a5" />
+<img width="325" height="650" alt="image" src="https://github.com/user-attachments/assets/c330da59-625c-45df-a4e8-b216c8807209" />
 
 
 # FolderCheck (Folder Blueprint & Checklist Mapper)
