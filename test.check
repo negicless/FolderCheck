@@ -1,0 +1,441 @@
+{
+  "items": [
+    {
+      "text": "医療保険の資格情報（健康保険証情報）_20260506162313.pdf",
+      "done": true,
+      "children": [],
+      "id": "a3c76cc5-00dd-4171-a19f-66256cbeaf2e",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "旧パスポート.pdf",
+      "done": false,
+      "children": [],
+      "id": "dc36f352-bbcb-46bf-a009-cba2cfa3f497",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "源泉徴収.jpg",
+      "done": false,
+      "children": [],
+      "id": "6ab6d5ac-5539-4456-878f-c083c68ae79b",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "新パスポート.pdf",
+      "done": false,
+      "children": [],
+      "id": "4cfa5c10-cb97-4aca-bd50-e4d7de82b587",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "申述書（中国語）.pdf",
+      "done": false,
+      "children": [],
+      "id": "c058bb5b-354b-468f-9630-3e9c72eb2b8b",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "免許.png",
+      "done": false,
+      "children": [],
+      "id": "aa9814ee-3b43-4cdb-9e2e-0f37cae17506",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "令和７確定申告.pdf",
+      "done": false,
+      "children": [],
+      "id": "ca66474c-4352-4e29-8b94-1060be26b7cd",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "令和７青色申告.pdf",
+      "done": false,
+      "children": [],
+      "id": "4659df9d-65cf-45f3-b987-8916ec4a0198",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "Certificates",
+      "done": false,
+      "children": [
+        {
+          "text": "GoogleDataAnalyticsPro.pdf",
+          "done": false,
+          "children": [],
+          "id": "575aa485-f390-46e4-aa19-c75f5fd1767a",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "text": "ITPassport.pdf",
+          "done": false,
+          "children": [],
+          "id": "53c0fd4b-8d5d-4182-9545-30062bb843c7",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "text": "JLPTN1.pdf",
+          "done": false,
+          "children": [],
+          "id": "f2a89151-fea1-43f4-bd39-410e3362bd7e",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "text": "最終学歴.pdf",
+          "done": false,
+          "children": [],
+          "id": "e2b19c21-7c29-4092-b322-6331e6ff63bd",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ],
+      "color": "rgba(255, 89, 94, 0.25)",
+      "id": "3088e722-2249-4564-8745-c415841aec63",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "Photo",
+      "done": false,
+      "children": [
+        {
+          "text": "Collegue.jpg",
+          "done": false,
+          "children": [],
+          "id": "6c124b07-5552-49d8-9e76-175033534f7a",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "text": "Family.jpg",
+          "done": false,
+          "children": [],
+          "id": "46e6a1a3-f6c9-4f04-94ab-c9bf616792f0",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        },
+        {
+          "text": "Friends.jpg",
+          "done": false,
+          "children": [],
+          "id": "82471131-70d2-40eb-a715-a7a1f0813b36",
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ],
+      "color": "rgba(255, 202, 58, 0.25)",
+      "id": "1bcc20a7-a396-4f96-841e-7c231a3600b5",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "text": "JapaneseVisa.check",
+      "done": false,
+      "children": [],
+      "id": "5e461171-8e36-413f-918b-11e710e32b78",
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    },
+    {
+      "id": "c7ef25d6-1df4-4137-9e6e-68e0001ea43f",
+      "text": "build",
+      "done": false,
+      "children": [
+        {
+          "id": "03644f43-4b12-489b-bf00-8bf33a825b6c",
+          "text": "FolderCheck",
+          "done": false,
+          "children": [
+            {
+              "id": "bdbe0cc6-9cce-4154-bf8f-fb9e3465451e",
+              "text": "Analysis-00.toc",
+              "done": false,
+              "children": [],
+              "notes": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'UD Digi Kyokasho NK','Segoe UI','Inter','sans-serif'; font-size:18px; font-weight:400; font-style:normal;\">\n<h2 style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:x-large; font-weight:700;\">this is a not</span></h2>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">sdfasdfasdf</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">asdfasdf</p></body></html>",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              },
+              "color": "rgba(66, 135, 245, 0.25)"
+            },
+            {
+              "id": "b091841f-ae76-4b09-87ec-401be876408e",
+              "text": "base_library.zip",
+              "done": false,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              },
+              "color": "rgba(66, 135, 245, 0.25)"
+            },
+            {
+              "id": "1693d0ca-1f82-42ed-9237-20cc0a5778ce",
+              "text": "EXE-00.toc",
+              "done": false,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              },
+              "color": "rgba(66, 135, 245, 0.25)"
+            },
+            {
+              "id": "9e8c3e4e-7d25-4e5f-ade8-84a3b3694601",
+              "text": "FolderCheck.pkg",
+              "done": false,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              },
+              "color": "rgba(66, 135, 245, 0.25)"
+            },
+            {
+              "id": "2a25e0cc-a6a5-4840-963b-880d03e7a987",
+              "text": "localpycs",
+              "done": true,
+              "children": [
+                {
+                  "id": "d1de2466-7889-4092-a9a7-33c766e76f48",
+                  "text": "pyimod01_archive.pyc",
+                  "done": true,
+                  "children": [],
+                  "notes": "",
+                  "depends_on": null,
+                  "validation": {
+                    "type": "none",
+                    "value": ""
+                  },
+                  "color": "rgba(255, 89, 94, 0.25)"
+                },
+                {
+                  "id": "7abc355c-3d19-4dfe-b5f4-174f6c2ac026",
+                  "text": "pyimod02_importers.pyc",
+                  "done": true,
+                  "children": [],
+                  "notes": "",
+                  "depends_on": null,
+                  "validation": {
+                    "type": "none",
+                    "value": ""
+                  },
+                  "color": "rgba(255, 89, 94, 0.25)"
+                },
+                {
+                  "id": "56799175-c917-4367-bc35-32816bc838a2",
+                  "text": "pyimod03_ctypes.pyc",
+                  "done": true,
+                  "children": [],
+                  "notes": "",
+                  "depends_on": null,
+                  "validation": {
+                    "type": "none",
+                    "value": ""
+                  },
+                  "color": "rgba(255, 89, 94, 0.25)"
+                },
+                {
+                  "id": "1ded19a6-8af2-4b5e-a860-ea7335f99789",
+                  "text": "pyimod04_pywin32.pyc",
+                  "done": true,
+                  "children": [],
+                  "notes": "",
+                  "depends_on": null,
+                  "validation": {
+                    "type": "none",
+                    "value": ""
+                  },
+                  "color": "rgba(255, 89, 94, 0.25)"
+                },
+                {
+                  "id": "b2e20933-2013-4c6c-b5f8-fd3c16d58f33",
+                  "text": "struct.pyc",
+                  "done": true,
+                  "children": [],
+                  "notes": "",
+                  "depends_on": null,
+                  "validation": {
+                    "type": "none",
+                    "value": ""
+                  },
+                  "color": "rgba(255, 89, 94, 0.25)"
+                }
+              ],
+              "notes": "asdfasdfasdf",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              },
+              "color": "rgba(66, 135, 245, 0.25)"
+            },
+            {
+              "id": "73b06e2e-8b76-4c14-9c93-be65d5ecc446",
+              "text": "PKG-00.toc",
+              "done": true,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              }
+            },
+            {
+              "id": "afe7696d-52a8-4556-9341-295303fbbc84",
+              "text": "PYZ-00.pyz",
+              "done": true,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              }
+            },
+            {
+              "id": "3968e92b-a475-448e-ba0d-b1942e417dc4",
+              "text": "PYZ-00.toc",
+              "done": true,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              }
+            },
+            {
+              "id": "9aeca8cb-0f3a-492c-a40d-9ae06508389b",
+              "text": "warn-FolderCheck.txt",
+              "done": true,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              }
+            },
+            {
+              "id": "c3ea6087-2d20-46d1-bac5-0ace005378c1",
+              "text": "xref-FolderCheck.html",
+              "done": false,
+              "children": [],
+              "notes": "",
+              "depends_on": null,
+              "validation": {
+                "type": "none",
+                "value": ""
+              }
+            }
+          ],
+          "notes": "",
+          "depends_on": null,
+          "validation": {
+            "type": "none",
+            "value": ""
+          }
+        }
+      ],
+      "notes": "",
+      "depends_on": null,
+      "validation": {
+        "type": "none",
+        "value": ""
+      }
+    }
+  ]
+}
